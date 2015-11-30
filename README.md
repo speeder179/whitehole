@@ -9,6 +9,14 @@
 
 ## How to run?
 
+### Database setup
+```shell
+mysql -uroot -proot;
+CREATE USER 'whitehole'@'%' IDENTIFIED BY 'wh123';
+GRANT ALL PRIVILEGES ON `whitehole`.* TO 'whitehole'@'%' WITH GRANT OPTION;
+FLUSH PRIVILEGES;
+```
+
 ### run with jar
 ```shell
 cd whitehole
