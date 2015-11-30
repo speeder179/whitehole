@@ -17,7 +17,7 @@
 
 ### run with IDE
 >新建运行Application
->设置main class: www.chinacloud.com.whitehole.core.WhiteholeApplication
+>设置main class: [www.chinacloud.com.whitehole.core.WhiteholeApplication](https://github.com/speeder179/whitehole/blob/develop/whitehole-core/src/main/java/www/chinacloud/com/whitehole/core/WhiteholeApplication.java)
 >设置Program arguments: server whitehole.yml
 >设置运行目录: whitehole-core
 >设置classpath of module: whitehole-core
