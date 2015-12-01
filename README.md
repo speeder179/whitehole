@@ -37,3 +37,11 @@ java -jar whitehole-core/target/whitehole.jar server whitehole-core/whitehole.ym
 
 ### Admin url
 >http://localhost:8080/whitehole/admin
+
+
+
+## TODOs
+- @Auth 集成One-AA
+- 集成工作流引擎
+- 集成分布式任务队列
+- 集成消息推送（websocket、email）
