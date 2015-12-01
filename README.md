@@ -42,6 +42,6 @@ java -jar whitehole-core/target/whitehole.jar server whitehole-core/whitehole.ym
 
 ## TODOs
 - @Auth 集成One-AA
-- 集成工作流引擎
-- 集成分布式任务队列
-- 集成消息推送（websocket、email）
+- 集成工作流引擎(activiti)
+- 集成分布式任务队列(jesque)
+- 集成消息推送(atmosphere)
